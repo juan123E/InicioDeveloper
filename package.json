@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/juan123E/InicioDeveloper/issues"
   },
-  "homepage": "https://github.com/juan123E/InicioDeveloper#readme"
+  "homepage": "https://github.com/juan123E/InicioDeveloper#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
