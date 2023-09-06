@@ -14,8 +14,10 @@
     color: white;
 
 }
-.list-group-item{
-    background-color: rgb(16, 169, 62);
-    color: rgb(25, 232, 204);
-    
+.importante{
+    background-color: rgb(35, 206, 29);
+    color: white;
+    text-align: center;
 }
+```
+```
