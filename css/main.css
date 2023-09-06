@@ -8,3 +8,14 @@
     display: inline-block;
     font-size: 16px;
 }
+.text-center-importante{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+.list-group-item{
+    background-color: rgb(16, 169, 62);
+    color: rgb(25, 232, 204);
+    
+}
